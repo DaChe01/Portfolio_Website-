@@ -1,15 +1,20 @@
-# Portfolio_Website-
-Welcome to my portfolio website! This is a simple portfolio website project created using only HTML and CSS.
-The website is structured to highlight key professional details while providing easy navigation through different sections.
-🌟 Features
-•	Responsive Design: Built using Bootstrap to ensure compatibility across all devices.
-•	Dynamic Navigation: Easy access to different sections like Home, About, Skills, Education, and Works.
-•	Custom Styling: Additional CSS for a personalized touch.
-•	Contact Section: Includes links to GitHub, email, and a phone number for easy communication.
-🚀 Tech Stack
-•	HTML5: For semantic structure.
-•	CSS3: For styling the website.
-•	Bootstrap: For responsive design and prebuilt components.
+# 🌐 Personal Portfolio Website
 
-Check Out: https://dache01.github.io/Portfolio_Website-/index.html
+Welcome to my **Portfolio Website** – a clean, responsive, and minimalist site built using only **HTML** and **CSS**. Designed to showcase my professional profile, this website ensures seamless navigation and an engaging user experience across all devices.
 
+## ✨ Features
+
+* **Responsive Design**: Utilizes **Bootstrap** for mobile-first responsiveness and consistent design across screen sizes.
+* **Dynamic Navigation**: Smooth access to various sections including **Home**, **About**, **Skills**, **Education**, and **Works**.
+* **Custom Styling**: Personalized look and feel using custom **CSS** enhancements.
+* **Contact Section**: Includes direct links to **GitHub**, **email**, and **phone number** for convenient communication.
+
+## 🚀 Tech Stack
+
+* **HTML5**: For semantic and structured markup.
+* **CSS3**: For styling and visual presentation.
+* **Bootstrap**: For responsive layout and prebuilt UI components.
+
+## 🔗 Live Demo
+
+Check it out here: [Portfolio Website](https://dache01.github.io/Portfolio_Website-/index.html)
